@@ -1,4 +1,4 @@
-tbbalanceamento-wsk07
+tb-alg3-balanceamento-wsk07
 =====================
 
 Trabalho de Alg 3 Balanceamento
